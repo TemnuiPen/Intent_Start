@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Text Share</string>
+    <string name="run_echo">Run Echo</string>
+    <string name="name">Name</string>
+    <string name="default_screen_text">Hello world!</string>
+</resources>
